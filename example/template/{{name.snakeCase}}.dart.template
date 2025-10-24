@@ -1,0 +1,5 @@
+class {{name.pascalCase}} {
+  void log() {
+    print('{{name.upperSnakeCase}}');
+  }
+}

@@ -1,0 +1,20 @@
+name: genie
+description: 基于模板的 Dart 代码生成工具库 / A template-based code generation library for Dart.
+version: 0.0.1
+homepage: https://github.com/lhlyu/genie
+topics:
+  - code-generation
+  - templates
+  - scaffolding
+  - flutter
+  - dart
+
+environment:
+  sdk: ^3.9.4
+
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
